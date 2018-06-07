@@ -9,4 +9,5 @@ AI Developers, Boise
 Contents:
 
 - Titanic: Machine Learning from Disaster (Kaggle) and Logistic Regression
+- Presentation by Sarah Ewing on Probability Distributions
 
